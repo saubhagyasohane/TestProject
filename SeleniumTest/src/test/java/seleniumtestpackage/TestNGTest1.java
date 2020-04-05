@@ -8,6 +8,7 @@ public class TestNGTest1 {
 	public void TestNgFirstTest() {
 		
 		System.out.println("FirstTestNGRUN");
+		System.out.println("FirstTestNGRUN2");
 	}
 
 }
